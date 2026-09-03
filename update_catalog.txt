@@ -1,7 +1,7 @@
-enabled=false
-channel=test
-version=0.0.1-test
+enabled=true
+channel=stable
+version=7.8.6
 filename=PT_Convert.exe
-url=https://github.com/theanh93hp-del/PT-Convert-Updates/releases/download/v0.0.1-test/PT_Convert.exe
-sha256=dda75c713eff40301f10f3deba06ab4d41d3fcdb98b2c67753585707b2d3d8c8
-notes=Thử nghiệm hệ thống cập nhật tự động PT Convert.
+url=https://github.com/theanh93hp-del/PT-Convert-Updates/releases/download/v7.8.6/PT_Convert.exe
+sha256=afcf16b080c74a08173c91c2e18d19d19df2478cb87c2b6a2f2a82a866aa9829
+notes=PT Convert 7.8.6 - cập nhật tự động, tối ưu màn hình nhỏ và sửa nhận diện TXT Trung.
