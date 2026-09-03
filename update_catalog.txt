@@ -1,6 +1,6 @@
 enabled=true
 channel=stable
-version=7.8.9
+version=7.8.11
 filename=PT_Convert.exe
 url=https://github.com/theanh93hp-del/PT-Convert-Updates/releases/download/v7.8.11/PT_Convert.exe
 sha256=9032ae9f548d27b8a428e8f9ee331a0dfd727b7068168b01eaf1dd75126433ac
