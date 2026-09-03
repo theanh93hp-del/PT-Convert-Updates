@@ -1,7 +1,7 @@
 enabled=true
 channel=stable
-version=7.8.11
+version=7.8.12
 filename=PT_Convert.exe
-url=https://github.com/theanh93hp-del/PT-Convert-Updates/releases/download/v7.8.11/PT_Convert.exe
-sha256=9032ae9f548d27b8a428e8f9ee331a0dfd727b7068168b01eaf1dd75126433ac
-notes=PT Convert 7.8.11 - cập nhật tự động
+url=https://github.com/theanh93hp-del/PT-Convert-Updates/releases/download/v7.8.12/PT_Convert.exe
+sha256=8e5aa431a0cd142e80c0b457ac8f7697d93ac975a170854ab93d82d7a209bf2b
+notes=PT Convert 7.8.12 - cập nhật tự động - bản này hạn chế spam báo update bác nào không muốn lên có thể ẩn!
