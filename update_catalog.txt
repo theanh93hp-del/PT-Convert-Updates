@@ -1,7 +1,7 @@
 enabled=true
 channel=stable
-version=7.8.6
+version=7.8.9
 filename=PT_Convert.exe
 url=https://github.com/theanh93hp-del/PT-Convert-Updates/releases/download/v7.8.6/PT_Convert.exe
-sha256=afcf16b080c74a08173c91c2e18d19d19df2478cb87c2b6a2f2a82a866aa9829
-notes=PT Convert 7.8.6 - cập nhật tự động, tối ưu màn hình nhỏ và sửa nhận diện TXT Trung.
+sha256=6551e4aaeb51d30d7b0bf2587f34012766b0c93e1607e6f390f0f6724a0a31d3
+notes=PT Convert 7.8.9 - cập nhật tự động
