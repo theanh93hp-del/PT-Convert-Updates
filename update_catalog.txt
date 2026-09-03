@@ -1,0 +1,7 @@
+enabled=false
+channel=test
+version=0.0.1-test
+filename=PT_Convert.exe
+url=https://github.com/theanh93hp-del/PT-Convert-Updates/releases/download/v0.0.1-test/PT_Convert.exe
+sha256=
+notes=Thử nghiệm hệ thống cập nhật tự động PT Convert.
