@@ -3,5 +3,5 @@ channel=test
 version=0.0.1-test
 filename=PT_Convert.exe
 url=https://github.com/theanh93hp-del/PT-Convert-Updates/releases/download/v0.0.1-test/PT_Convert.exe
-sha256=
+sha256=dda75c713eff40301f10f3deba06ab4d41d3fcdb98b2c67753585707b2d3d8c8
 notes=Thử nghiệm hệ thống cập nhật tự động PT Convert.
