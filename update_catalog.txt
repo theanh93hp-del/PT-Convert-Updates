@@ -1,7 +1,7 @@
 enabled=true
 channel=stable
-version=7.8.20
+version=7.9.9
 filename=PT_Convert.exe
-url=https://github.com/theanh93hp-del/PT-Convert-Updates/releases/download/v7.8.20/PT_Convert.exe
-sha256=72cc5b529d2dcb0d7ea0d59228152a8f804e5f0e3aa0c8aed416923ad79a5ded
-notes=PT Convert 7.8.20 - cập nhật tự động - lười viết ở đây quá các bro à thôi cứ cập nhật đi lỗi đâu sửa tiếp :v
+url=https://github.com/theanh93hp-del/PT-Convert-Updates/releases/download/v7.9.9/PT_Convert.exe
+sha256=0314f46001ce5c7f17d690be850892edb18e6deee106e3f5bf78f2d368fd06ae
+notes=Bản này siêu update cơ mà đi với đó là vô vàn lỗi có thể phát sinh :v
