@@ -1,7 +1,7 @@
 enabled=true
 channel=stable
-version=8.1.16
+version=8.1.28
 filename=PT_Convert.exe
-url=https://github.com/theanh93hp-del/PT-Convert-Updates/releases/download/v8.1.16/PT_Convert.exe
-sha256=1e8c627758dc5fa57241870e1de92345fa37e32798f9f673b702d953b1f84867
+url=https://github.com/theanh93hp-del/PT-Convert-Updates/releases/download/v8.1.28/PT_Convert.exe
+sha256=be12c2ce89e395222262844067da0dbc8f4d9540b7239a26c23367c5091ff729
 notes=Bản này siêu update cơ mà đi với đó là vô vàn lỗi có thể phát sinh :v
