@@ -1,7 +1,7 @@
 enabled=true
 channel=stable
-version=8.1.54
+version=8.2.9
 filename=PT_Convert.exe
-url=https://github.com/theanh93hp-del/PT-Convert-Updates/releases/download/v8.1.54/PT_Convert.exe
-sha256=a3b23b6ad81c333da5bcb19db9aae4b745ddb7b598231b2a4a7af0311fad0bc5
-notes=Bản này siêu update cơ mà đi với đó là vô vàn lỗi có thể phát sinh :v
+url=https://github.com/theanh93hp-del/PT-Convert-Updates/releases/download/v8.2.9/PT_Convert.exe
+sha256=ea51b54792ab2f8ec672545fe883ce74d14f60249c71e05ebef5170a047d5147
+notes=Bản này thêm tính năng hoán đổi khuôn mặt :v 
