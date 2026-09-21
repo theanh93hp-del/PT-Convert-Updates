@@ -1,7 +1,7 @@
 enabled=true
 channel=stable
-version=8.4.6
+version=8.4.10
 filename=PT_Convert.exe
-url=https://github.com/theanh93hp-del/PT-Convert-Updates/releases/download/v8.4.6/PT_Convert.exe
-sha256=1d7ad1f2e5ec55f4dd19eedd24757b562592e80165aab4a9f59755eb6b57f2fc
+url=https://github.com/theanh93hp-del/PT-Convert-Updates/releases/download/v8.4.10/PT_Convert.exe
+sha256=59d0b4b07e042f656127ec12168e7d336518030ac1a72e50cb9b93c1c22171aa
 notes=Bản này thêm tính năng hoán đổi khuôn mặt :v 
