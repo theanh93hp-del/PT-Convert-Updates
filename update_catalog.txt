@@ -1,7 +1,7 @@
 enabled=true
 channel=stable
-version=8.8.52
+version=8.8.56
 filename=PT_Convert.exe
-url=https://github.com/theanh93hp-del/PT-Convert-Updates/releases/download/8.8.52/PT_Convert.exe
-sha256=d03cc76130f550568df0d258e30e6b142236dcf74b393e230553ea933ff77153
+url=https://github.com/theanh93hp-del/PT-Convert-Updates/releases/download/8.8.56/PT_Convert.exe
+sha256=c42df353144d47215b24c57fd64b864dd763021bcf2a253ccc7fb214cd723ed2
 notes=Dạo này ế quá các sếp ơi :( các sếp giới thiệu cho em khách mới với để em có ti rau tí bún :v hoặc các sếp nâng cấp gói svip đi cũng là các ủng hộ giá sale 1tr (ae ở vip ib vùng kín)
